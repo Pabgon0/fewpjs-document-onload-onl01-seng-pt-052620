@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-  console.log("the DOM has loaded")
+  document.findById("text") = "This is really cool!"
 })
